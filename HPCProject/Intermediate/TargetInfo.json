@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HPCProject",
+			"Path": "..\\Source\\HPCProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HPCProjectEditor",
+			"Path": "..\\Source\\HPCProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

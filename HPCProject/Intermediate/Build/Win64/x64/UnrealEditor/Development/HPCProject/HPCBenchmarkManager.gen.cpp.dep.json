@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\akfh9\\desktop\\main gamedev\\hpcproject\\intermediate\\build\\win64\\unrealeditor\\inc\\hpcproject\\uht\\hpcbenchmarkmanager.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\akfh9\\desktop\\main gamedev\\hpcproject\\intermediate\\build\\win64\\x64\\hpcprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\akfh9\\desktop\\main gamedev\\hpcproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hpcproject\\definitions.hpcproject.h",
+            "c:\\users\\akfh9\\desktop\\main gamedev\\hpcproject\\source\\hpcproject\\hpcbenchmarkmanager.h",
+            "c:\\users\\akfh9\\desktop\\main gamedev\\hpcproject\\intermediate\\build\\win64\\unrealeditor\\inc\\hpcproject\\uht\\hpcbenchmarkmanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

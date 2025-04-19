@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HPCProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\HPCProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\BouncePad.gen.cpp.obj"
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\HPCBenchmarkManager.gen.cpp.obj"
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\HPCPhysicsController.gen.cpp.obj"
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\HPCPhysicsSubsystem.gen.cpp.obj"
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\HPCProject.init.gen.cpp.obj"
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\PhysicsSpawner.gen.cpp.obj"
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\SpatialPartitioner.gen.cpp.obj"
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\BouncePad.cpp.obj"
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\HPCBenchmarkManager.cpp.obj"
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\HPCPhysicsController.cpp.obj"
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\HPCPhysicsSubsystem.cpp.obj"
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\HPCProject.cpp.obj"
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\PhysicsSpawner.cpp.obj"
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\SpatialPartitioner.cpp.obj"
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\PerModuleInline.gen.cpp.obj"
+"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\Default.rc2.res"
+/OUT:"C:\Users\akfh9\Desktop\Main gamedev\New\HPCProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\HPCProject\UnrealEditor-HPCProject.lib"
